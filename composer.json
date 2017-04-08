@@ -1,5 +1,5 @@
 {
-    "name": "wladislavk/getid3",
+    "name": "vkr/getid3",
     "description": "This fork of phansys/GetId3 provides compatibility with PHP 7.0",
     "keywords": ["getid3", "tags", "metadata"],
     "type": "library",
