@@ -1,3 +1,10 @@
+Fork notes
+==========
+
+This fork of phansys/GetID3 is needed to provide compatibility with PHP 7. In fact,
+the library is already compatible with PHP 7.0, so pretty much the only change is
+updating dependencies in composer.json.
+
 GetId3
 ======
 [![Build Status](https://secure.travis-ci.org/phansys/GetId3.png?branch=master)](http://travis-ci.org/phansys/GetId3)
