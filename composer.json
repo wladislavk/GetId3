@@ -1,6 +1,6 @@
 {
-    "name": "phansys/getid3",
-    "description": "This fork of GetId3 library updates to PSR-2 / PSR-4 CS, adds namespaces and makes it installable by composer.",
+    "name": "wladislavk/getid3",
+    "description": "This fork of phansys/GetId3 provides compatibility with PHP 7.0",
     "keywords": ["getid3", "tags", "metadata"],
     "type": "library",
     "license": "GPL",
@@ -10,6 +10,9 @@
             "name": "James Heinrich",
             "homepage": "http://www.getid3.org",
             "email": "info@getid3.org"
+        },
+        {
+            "name": "Vladislav Kryshtanovskiy"
         }
     ],
     "require": {
